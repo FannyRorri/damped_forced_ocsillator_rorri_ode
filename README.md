@@ -71,13 +71,13 @@ You can install the required packages with:
 
 ```bash
 pip install numpy scipy matplotlib
+```
 
----
+## Run
 
 To run it: 
-
 ```bash
 python 1dof_clean.py
-
+```
 
 
