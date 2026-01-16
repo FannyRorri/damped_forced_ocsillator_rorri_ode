@@ -58,14 +58,6 @@ All plots are automatically saved in the `plots/` directory.
 
 ---
 
-## File Structure
-├── 1dof_clean.py        # Main simulation script
-├── plots/               # Automatically generated figures
-└── README.md            # Project description
-
-
----
-
 ## Requirements
 
 The project uses standard scientific Python libraries:
@@ -80,8 +72,11 @@ You can install the required packages with:
 ```bash
 pip install numpy scipy matplotlib
 
+---
+
 To run it: 
 
+```bash
 python 1dof_clean.py
 
 
